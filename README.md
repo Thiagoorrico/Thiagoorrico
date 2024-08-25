@@ -5,13 +5,10 @@
 
 
 ## 🛠 Habilidades
-<img scr="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="100" height="100"/>
-
-<img scr="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="100" height="100"/>
-
-<img scr="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="100" height="100"/>
-
-<img scr="https://cdn.worldvectorlogo.com/logos/vue-9.svg)" alt="Vue.js" width="100" height="100"/>
+[![HTML](https://cdn.worldvectorlogo.com/logos/html-1.svg)
+[![CSS](https://cdn.worldvectorlogo.com/logos/css-3.svg)
+[![JavaScript](https://cdn.worldvectorlogo.com/logos/javascript-1.svg)
+[![Vue.js](https://cdn.worldvectorlogo.com/logos/vue-9.svg)
 
 
 
