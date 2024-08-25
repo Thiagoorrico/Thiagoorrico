@@ -9,7 +9,7 @@
 
 <img scr="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="100" height="100"/>
 
-<img scr="https://cdn.worldvectorlogo.com/logos/javascript-1.svg) alt="JavaScript" width="100" height="100"/>
+<img scr="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="100" height="100"/>
 
 <img scr="https://cdn.worldvectorlogo.com/logos/vue-9.svg)" alt="Vue.js" width="100" height="100"/>
 
