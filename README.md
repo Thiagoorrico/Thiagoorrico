@@ -17,6 +17,9 @@
 
 </div>
 
+![Snake animation](https://github.com/thiagoorrico/thiagorrico/blob/output/github-contribution-grid-snake.svg)
+
+
 ## 🔗 Links
 <div align="left">
   
