@@ -1,6 +1,6 @@
 # Boas vindas ao meu Github! :)
 
-![Snake animation](https://github.com/thiagoorrico/thiagoorrico/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Thiagoorrico/Thiagoorrico/blob/output/github-contribution-grid-snake.svg)
 
 ## 🛠 Habilidades
 <div align="center">
