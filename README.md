@@ -5,10 +5,10 @@
 
 
 ## 🛠 Habilidades
-[![HTML](https://cdn.worldvectorlogo.com/logos/html-1.svg)
-[![CSS](https://cdn.worldvectorlogo.com/logos/css-3.svg)
-[![JavaScript](https://cdn.worldvectorlogo.com/logos/javascript-1.svg)
-[![Vue.js](https://cdn.worldvectorlogo.com/logos/vue-9.svg)
+![HTML](https://cdn.worldvectorlogo.com/logos/html-1.svg width=100x100)
+![CSS](https://cdn.worldvectorlogo.com/logos/css-3.svg)
+![JavaScript](https://cdn.worldvectorlogo.com/logos/javascript-1.svg)
+![Vue.js](https://cdn.worldvectorlogo.com/logos/vue-9.svg)
 
 
 
