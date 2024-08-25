@@ -1,14 +1,12 @@
-
 # Boas vindas ao meu Github! :)
 
 
-
-
 ## 🛠 Habilidades
-![HTML](https://cdn.worldvectorlogo.com/logos/html-1.svg width=100x100)
-![CSS](https://cdn.worldvectorlogo.com/logos/css-3.svg)
-![JavaScript](https://cdn.worldvectorlogo.com/logos/javascript-1.svg)
-![Vue.js](https://cdn.worldvectorlogo.com/logos/vue-9.svg)
+<img scr="assets\img\html-1.svg" alt="Logo Html" width="100" height="100"/>
+<img scr="assets\img\css-3.svg" alt="Logo CSS" width="100" height="100"/>
+<img scr="assets\img\javascript-1.svg" alt="Logo JavaScript" width="100" height="100"/>
+<img scr="assets\img\vue-9.svg" alt="Logo Vue.js" width="100" height="100"/>
+
 
 
 
