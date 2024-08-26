@@ -2,7 +2,7 @@
 
 
 ## 🛠 Habilidades
-<div align="left-mid">
+<div align="left">
   
 <img class="img" src="assets/img/html-1.svg" alt="Logo Html" width="50" height="50"/>
 <img class="img" src="assets/img/css-3.svg" alt="Logo CSS" width="50" height="50"/>
